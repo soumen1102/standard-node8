@@ -1,4 +1,4 @@
-FROM ubuntu:18.10
+FROM ubuntu:20.04
 LABEL maintainer "Sharedcloud <admin@sharedcloud.io>"
 
 RUN \
